@@ -1,6 +1,6 @@
 # Hi! I'm Nikita 👋
 
-I'm a master's degree student, formerly a researcher of computer vision at [MPEI](https://mpei.ru/lang/en/Pages/default.aspx) and a continuing C++/C#/Python coder.
+I'm a master's degree student, formerly a researcher of optics/computer vision at [MPEI](https://mpei.ru/lang/en/Pages/default.aspx) and a continuing C++/C#/Python coder.
 
 - 🔭 I’m currently searching job as C++ developer 🧐
 - 🌱 I’m currently learning C++ advanced topics and the Boost library 
