@@ -12,6 +12,6 @@ I'm a master's degree student, formerly a researcher of optics/computer vision a
 My resume 💼
 - [HeadHunter](https://hh.ru/resume/1317b32dff0c124ad40039ed1f506d437a3161)
 - [Habr Career](https://career.habr.com/hell3b0re)
-- [Linked In](https://www.linkedin.com/in/nikita-sivov-0b77a427b/)
+- [Linked In](https://linkedin.com/in/nikita-sivov)
 
  Thanks for your attention! 😌
