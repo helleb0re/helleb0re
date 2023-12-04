@@ -1,9 +1,9 @@
 # Hi! I'm Nikita 👋
 
-I'm a master's degree student, formerly a researcher of optics/computer vision at [MPEI](https://mpei.ru/lang/en/Pages/default.aspx) and a continuing C++/C#/Python coder.
+I'm a master's degree student, formerly a researcher of optics/computer vision at [MPEI](https://mpei.ru/lang/en/Pages/default.aspx) and a continuing C++/Python/C# coder.
 
-- 🔭 I’m currently searching job as C++ developer 🧐
-- 🌱 I’m currently learning C++ advanced topics and the Boost library 
+- 🔭 I’m currently working as intern C++ developer at [Positive Technologies](https://www.ptsecurity.com/ww-en/) 🤓 (since September 2023)
+- 🌱 I’m currently learning C++ advanced topics, the Boost library and computer networks background.
 - 👯 I’m looking to collaborate with Elon Musk 😎 (but he doesn't want 😓)
 - 📫 How to reach me:
   📧 [Email](n1kita.sivov@yandex.com) 📱 [Telegram](https://t.me/helleb0re)
