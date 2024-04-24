@@ -6,7 +6,7 @@ I'm a master's degree student, formerly a researcher of optics/computer vision a
 - 🌱 I’m currently learning C++ advanced topics, the Boost library and the computer networks background 🤓
 - 👯 I’m looking to collaborate with Elon Musk 😎 (but he doesn't want 😓)
 - 📫 How to reach me:
-  📧 [Email](mailto:n1kita.sivov@yandex.com) 📱 [Telegram](https://t.me/helleb0re)
+  📧 [Email](<mailto:n1kita.sivov@yandex.com>) 📱 [Telegram](https://t.me/helleb0re)
 - ⚡ Fun fact: Big fan of the [Chainsaw Man](https://en.wikipedia.org/wiki/Chainsaw_Man) 😈
 
 My resume 💼
