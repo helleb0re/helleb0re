@@ -1,6 +1,6 @@
 # Hi! I'm Nikita 👋
 
-I'm a master's degree student, formerly a researcher of optics/computer vision at [MPEI](https://mpei.ru/lang/en/Pages/default.aspx) and a continuing C++/Python/C# coder.
+I'm a master's degree student, formerly a researcher of optics/computer vision at [MPEI](https://mpei.ru/lang/en/Pages/default.aspx), junior C++ developer at [Positive Technologies](https://www.ptsecurity.com/ww-en/) and a continuing C/C++/Lua/Python coder.
 
 - 🔭 I’m currently (since September 2023) working as junior C++ developer at [Positive Technologies](https://www.ptsecurity.com/ww-en/) 👨🏻‍💻
 - 🌱 I’m currently learning C++ advanced topics, the Boost library and the computer networks background 🤓
