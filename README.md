@@ -10,8 +10,6 @@ I'm a master's degree student, formerly a researcher of optics/computer vision a
 - ⚡ Fun fact: Big fan of the [Chainsaw Man](https://en.wikipedia.org/wiki/Chainsaw_Man) 😈
 
 My resume 💼
-- [HeadHunter](https://hh.ru/resume/1317b32dff0c124ad40039ed1f506d437a3161)
-- [HabrCareer](https://career.habr.com/hell3b0re)
 - [LinkedIn](https://linkedin.com/in/nikita-sivov)
 
  Thanks for your attention! 😌
